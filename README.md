@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">Virusense 🦠</h1>
 
 <p align="center">
 <a href="#tech">Technologies</a>
@@ -21,8 +21,7 @@
 
 <p align="center">
 
-<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
-<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
+<img src="https://cdn.discordapp.com/attachments/908135541411840020/1296569381362597888/Screenshot_2024-10-17_202359.png?ex=6712c3d5&is=67117255&hm=fee782617955c418f05956b726d7ebd62af05f2621123004e5fa44314b9ce1f6&" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
