@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://github.com/ShaanCoding](https://github.com/moneyrain">📱 Visit my Github!</a>
+<a href="https://github.com/moneyrain">📱 Visit my Github!</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
